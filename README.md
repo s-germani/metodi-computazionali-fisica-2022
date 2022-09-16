@@ -17,4 +17,4 @@ Elenco Lezioni
 
 Versione online delle lezioni (read-only) 
 =========================================
-* [Lezione 2](http://nbviewer.ipython.org/)
+* [Lezione 2](https://nbviewer.org/github/s-germani/metodi-computazionali-fisica/blob/main/notebooks/L02_Rappresentazioni_ed_Errori_Numerici.ipynb)
