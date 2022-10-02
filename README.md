@@ -17,6 +17,7 @@ Elenco Lezioni
 
 Versione online delle lezioni (read-only) 
 =========================================
+* [Lezione 1 - Introduzione](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/slides/L01_MetodiComputazionali_Intro.pdf)
 * [Lezione 2](https://nbviewer.org/github/s-germani/metodi-computazionali-fisica/blob/main/notebooks/L02_Rappresentazioni_ed_Errori_Numerici.ipynb)
 * [Lezione 3]()
 * [Lezione 3a - Git e GitHub](https://nbviewer.org/github/s-germani/metodi-computazionali-fisica/blob/main/notebooks/L03a_Github.ipynb)
