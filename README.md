@@ -15,7 +15,7 @@ Elenco Lezioni
 * Introduzione
 * *Basi di Linux e Python*
 * Rappresentazine Numerica ed Errori
-* Principali moduly Python in ambito scinetifico (Numpy, Scipy, Matplotlib,...)
+* *Principali moduly Python in ambito scinetifico (Numpy, Scipy, Matplotlib,...)*
 
 Versione online delle lezioni (read-only) 
 =========================================
