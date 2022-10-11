@@ -28,4 +28,4 @@ Versione online delle lezioni (read-only)
 
 Esercitazioni in Laboratorio (read-only) 
 =========================================
-* [Numpy, Scipy, Matplotlib](https://nbviewer.org/github/s-germani/metodi-computazionali-fisica/blob/main/notebooks/E02a_NumpyScipyMatplotlib.ipynb)
+* [Numpy, Scipy, Matplotlib](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/E02a_NumpyScipyMatplotlib.ipynb)
