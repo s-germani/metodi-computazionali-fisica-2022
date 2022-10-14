@@ -1,3 +1,15 @@
+#####################################################
+# S. Germani (stefano.germani@unipg.it)             #
+#                                                   #
+# Universià degli Studi di Perugia                  #
+# Corso di Metodi Computazionali per la Fisica      #
+#---------------------------------------------------#
+# Esercitazione 2 - Numpy, Pandas, Matplotlib:      #
+#                                                   #
+#   Scrittura File CSV                              #
+#                                                   #
+#####################################################
+
 import sys,os
 import numpy as np
 import pandas as pd
