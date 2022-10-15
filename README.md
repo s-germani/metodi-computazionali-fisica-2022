@@ -23,7 +23,7 @@ Versione online delle lezioni (read-only)
 * [Lezione 1a - Basi di Linux e Python](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/slides/L01a_BasiShellPython.ipynb)
 * [Lezione 2  - Rappresentazione ed Errori Numerici](https://nbviewer.org/github/s-germani/metodi-computazionali-fisica/blob/main/notebooks/L02_Rappresentazioni_ed_Errori_Numerici.ipynb)
 * [Lezione 2a - Numpy, Scipy, Matplotlib](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/L02a_NumpyScipyMatplotlib.ipynb)
-* [Lezione 3]()
+* [Lezione 3  - Integrazione e Derivazione](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/L03_Integrazione_e_Derivazione.ipynb)
 * [Lezione 3a - Git e GitHub](https://nbviewer.org/github/s-germani/metodi-computazionali-fisica/blob/main/notebooks/L03a_Github.ipynb)
 
 Esercitazioni in Laboratorio (read-only) 
