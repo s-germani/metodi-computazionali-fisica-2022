@@ -1,5 +1,5 @@
-#Descrizione delle Soluzioni per le Esercitazioni in Laboratorio.
-##Corso di Metodi Computazionali per la Fisica
+# Descrizione delle Soluzioni per le Esercitazioni in Laboratorio.
+## Corso di Metodi Computazionali per la Fisica
 
 
 * Cartella E2 (Esercitazione 2 - Numpy, Pandas, Matplotli, ...):
