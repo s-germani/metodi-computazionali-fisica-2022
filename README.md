@@ -29,3 +29,4 @@ Versione online delle lezioni (read-only)
 Esercitazioni in Laboratorio (read-only) 
 =========================================
 * [Numpy, Scipy, Matplotlib](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/E02a_NumpyScipyMatplotlib.ipynb)
+* [Integrazione e derivazione](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/E03_Itegrazione_e_Derivazione.ipynb)
