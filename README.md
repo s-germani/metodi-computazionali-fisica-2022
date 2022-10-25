@@ -25,8 +25,11 @@ Versione online delle lezioni (read-only)
 * [Lezione 2a - Numpy, Scipy, Matplotlib](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/L02a_NumpyScipyMatplotlib.ipynb)
 * [Lezione 3  - Integrazione e Derivazione](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/L03_Integrazione_e_Derivazione.ipynb)
 * [Lezione 3a - Git e GitHub](https://nbviewer.org/github/s-germani/metodi-computazionali-fisica/blob/main/notebooks/L03a_Github.ipynb)
+* [Lezione 4  - Equazioni e Minimizzazione](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/L04_Equazioni_Minimizzazione.ipynb)
+* [Lezione 4a - Funzioni in Python](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/L04a_Funzioni.ipynb)
 
 Esercitazioni in Laboratorio (read-only) 
 =========================================
 * [Numpy, Scipy, Matplotlib](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/E02a_NumpyScipyMatplotlib.ipynb)
 * [Integrazione e derivazione](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/E03_Itegrazione_e_Derivazione.ipynb)
+* [Integrazione + Minimizzazione](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/E04_Equazioni_Minimizzazione.ipynb)
