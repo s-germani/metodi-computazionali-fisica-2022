@@ -11,8 +11,8 @@ Per aprire le zioni in formato notebook dal terminale dopo aver scaricato il fil
 dove `nome-file-notebook.ipynb` è il nome del file scaricato.
 
 Le ercitazioni da svolgere sono descrite all'interno di notebook jupyter.
-Per scaricare i dati fare riferimento al pacchetto nel repository *get-mcf-data* (https://github.com/s-germani/get-mcf-data)
-Esempi su come svolgere le esrcitazioni verranno resi disponibili nell'area *soluzioni* (https://github.com/s-germani/metodi-computazionali-fisica/tree/main/soluzioni)
+Per scaricare i dati fare riferimento al pacchetto nel repository [*get-mcf-data*](https://github.com/s-germani/get-mcf-data)
+Esempi su come svolgere le esrcitazioni verranno resi disponibili nell'area [*soluzioni*](https://github.com/s-germani/metodi-computazionali-fisica/tree/main/soluzioni)
 
 
 Elenco Lezioni
