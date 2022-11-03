@@ -42,3 +42,8 @@ Esercitazioni in Laboratorio (read-only)
 * [Numpy, Scipy, Matplotlib](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/E02a_NumpyScipyMatplotlib.ipynb)
 * [Integrazione e derivazione](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/E03_Itegrazione_e_Derivazione.ipynb)
 * [Integrazione + Minimizzazione](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/E04_Equazioni_Minimizzazione.ipynb)
+
+Esempi di Svolgomento delle Esercitazioni (read-only)
+=========================================
+* [E2    - Numpy, Scipy, Matplotlib](https://github.com/s-germani/metodi-computazionali-fisica/tree/main/soluzioni/E2)
+* [E3+E4 - Integrazione e Fit dei Dati](https://github.com/s-germani/metodi-computazionali-fisica/tree/main/soluzioni/E4)
