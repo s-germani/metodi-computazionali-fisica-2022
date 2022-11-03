@@ -47,3 +47,6 @@ Esempi di Svolgomento delle Esercitazioni (read-only)
 =========================================
 * [E2    - Numpy, Scipy, Matplotlib](https://github.com/s-germani/metodi-computazionali-fisica/tree/main/soluzioni/E2)
 * [E3+E4 - Integrazione e Fit dei Dati](https://github.com/s-germani/metodi-computazionali-fisica/tree/main/soluzioni/E4)
+
+[Elenco dettagliato soluzioni](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/soluzioni/ELENCO_SOLUZIONI.md)
+
