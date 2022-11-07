@@ -36,6 +36,7 @@ Versione online delle lezioni (read-only)
 * [Lezione 3a - Git e GitHub](https://nbviewer.org/github/s-germani/metodi-computazionali-fisica/blob/main/notebooks/L03a_Github.ipynb)
 * [Lezione 4  - Equazioni e Minimizzazione](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/L04_Equazioni_Minimizzazione.ipynb)
 * [Lezione 4a - Funzioni in Python](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/L04a_Funzioni.ipynb)
+* [Lezione 5  - Equazioni Differenziali](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/L05_EquazioniDifferenziali.ipynb)
 
 Esercitazioni in Laboratorio (read-only) 
 =========================================
