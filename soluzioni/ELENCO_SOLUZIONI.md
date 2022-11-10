@@ -11,5 +11,5 @@
   * `fit_data.py`               : script python per leggere il file di dati ed effettuare il fit con la funzopne lognormale
 * Cartella E5 ( Esercitazione su lezione 5 - Equazioni Differenziali ):
   * `filtro_rc.py` : script python per la soluzione di un circuito RC passa basso
-  * `pendulum.py`  : script pytgon per la soluzione dell'equazione del moto del pendolo semplice con animazione
+  * `pendulum.py`  : script python per la soluzione dell'equazione del moto del pendolo semplice con animazione
   
