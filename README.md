@@ -46,6 +46,7 @@ Esercitazioni in Laboratorio (read-only)
 * [Numpy, Scipy, Matplotlib](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/E02a_NumpyScipyMatplotlib.ipynb)
 * [Integrazione e derivazione](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/E03_Itegrazione_e_Derivazione.ipynb)
 * [Integrazione + Minimizzazione](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/E04_Equazioni_Minimizzazione.ipynb)
+* [Equazioni Differenziali](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/E05_EquazioniDifferenziali.ipynb)
 * [Trasformate di Fourier](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/E06_TrasformateFourier.ipynb)
 
 
