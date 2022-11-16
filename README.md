@@ -37,12 +37,16 @@ Versione online delle lezioni (read-only)
 * [Lezione 4  - Equazioni e Minimizzazione](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/L04_Equazioni_Minimizzazione.ipynb)
 * [Lezione 4a - Funzioni in Python](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/L04a_Funzioni.ipynb)
 * [Lezione 5  - Equazioni Differenziali](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/L05_EquazioniDifferenziali.ipynb)
+* [Lezione 6  - Trasformate di Fourier](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/L06_TrasformateFourier.ipynb)
+
 
 Esercitazioni in Laboratorio (read-only) 
 =========================================
 * [Numpy, Scipy, Matplotlib](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/E02a_NumpyScipyMatplotlib.ipynb)
 * [Integrazione e derivazione](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/E03_Itegrazione_e_Derivazione.ipynb)
 * [Integrazione + Minimizzazione](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/E04_Equazioni_Minimizzazione.ipynb)
+* [Trasformate di Fourier](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/E06_TrasformateFourier.ipynb)
+
 
 Esempi di Svolgomento delle Esercitazioni (read-only)
 =========================================
