@@ -38,6 +38,7 @@ Versione online delle lezioni (read-only)
 * [Lezione 4a - Funzioni in Python](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/L04a_Funzioni.ipynb)
 * [Lezione 5  - Equazioni Differenziali](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/L05_EquazioniDifferenziali.ipynb)
 * [Lezione 6  - Trasformate di Fourier](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/L06_TrasformateFourier.ipynb)
+* [Lezione 6a - Copie in Python](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/L06a_PythonCopy.ipynb)
 
 
 Esercitazioni in Laboratorio (read-only) 
