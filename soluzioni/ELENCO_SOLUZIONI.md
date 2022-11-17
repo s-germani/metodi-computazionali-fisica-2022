@@ -12,4 +12,8 @@
 * Cartella E5 ( Esercitazione su lezione 5 - Equazioni Differenziali ):
   * `filtro_rc.py` : script python per la soluzione di un circuito RC passa basso
   * `pendulum.py`  : script python per la soluzione dell'equazione del moto del pendolo semplice con animazione
+* Cartella E6 ( Esercitazione su lezione 6 - Trasformate di Fouries ):
+  * `noise_fft.py`   : script python per lo studio di campioni di rumore (white, pink, red noise)
+  * `copernicus.py`  : script python per lo studio dei dati sugli inquinanti
+
   
