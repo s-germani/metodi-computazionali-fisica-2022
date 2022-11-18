@@ -41,6 +41,7 @@ Versione online delle lezioni (read-only)
 * [Lezione 6a - Copie in Python](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/L06a_PythonCopy.ipynb)
 
 
+
 Esercitazioni in Laboratorio (read-only) 
 =========================================
 * [Numpy, Scipy, Matplotlib](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/E02a_NumpyScipyMatplotlib.ipynb)
@@ -50,11 +51,13 @@ Esercitazioni in Laboratorio (read-only)
 * [Trasformate di Fourier](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/E06_TrasformateFourier.ipynb)
 
 
+
 Esempi di Svolgomento delle Esercitazioni (read-only)
 =========================================
 * [E2    - Numpy, Scipy, Matplotlib](https://github.com/s-germani/metodi-computazionali-fisica/tree/main/soluzioni/E2)
 * [E3+E4 - Integrazione e Fit dei Dati](https://github.com/s-germani/metodi-computazionali-fisica/tree/main/soluzioni/E4)
 * [E5    - Equazioni Differenziali](https://github.com/s-germani/metodi-computazionali-fisica/tree/main/soluzioni/E5)
+* [E6    - Trasformate di Fourier](https://github.com/s-germani/metodi-computazionali-fisica/tree/main/soluzioni/E6)
 
 
 [Elenco dettagliato soluzioni](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/soluzioni/ELENCO_SOLUZIONI.md)
