@@ -39,7 +39,7 @@ Versione online delle lezioni (read-only)
 * [Lezione 5  - Equazioni Differenziali](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/L05_EquazioniDifferenziali.ipynb)
 * [Lezione 6  - Trasformate di Fourier](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/L06_TrasformateFourier.ipynb)
 * [Lezione 6a - Copie in Python](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/L06a_PythonCopy.ipynb)
-
+* [Lezione 7  - Metodi Monte Carlo](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/L07_MonteCarlo.ipynb)
 
 
 Esercitazioni in Laboratorio (read-only) 
