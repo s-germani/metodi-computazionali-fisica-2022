@@ -49,7 +49,7 @@ Esercitazioni in Laboratorio (read-only)
 * [Integrazione + Minimizzazione](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/E04_Equazioni_Minimizzazione.ipynb)
 * [Equazioni Differenziali](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/E05_EquazioniDifferenziali.ipynb)
 * [Trasformate di Fourier](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/E06_TrasformateFourier.ipynb)
-
+* [Metodi Monte Carlo](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/E07_MonteCarlo.ipynb)
 
 
 Esempi di Svolgomento delle Esercitazioni (read-only)
