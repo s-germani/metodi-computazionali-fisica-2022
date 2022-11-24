@@ -15,5 +15,7 @@
 * Cartella E6 ( Esercitazione su lezione 6 - Trasformate di Fouries ):
   * `noise_fft.py`   : script python per lo studio di campioni di rumore (white, pink, red noise)
   * `copernicus.py`  : script python per lo studio dei dati sugli inquinanti
-
+* Cartella E7 ( Esercitazione su lezione 7 - Metodi Monte Carlo ):
+  * diffusione_2d.py : script python con simulazione della diffusione 2D simmetrica e asimmetrica
+  * prob_phi.py      : script python per test della distribuzione asimmetrica dell'angolo di diffusione phi
   

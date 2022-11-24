@@ -58,7 +58,7 @@ Esempi di Svolgomento delle Esercitazioni (read-only)
 * [E3+E4 - Integrazione e Fit dei Dati](https://github.com/s-germani/metodi-computazionali-fisica/tree/main/soluzioni/E4)
 * [E5    - Equazioni Differenziali](https://github.com/s-germani/metodi-computazionali-fisica/tree/main/soluzioni/E5)
 * [E6    - Trasformate di Fourier](https://github.com/s-germani/metodi-computazionali-fisica/tree/main/soluzioni/E6)
-
+* [E7    - Metodi Monte Carlo](https://github.com/s-germani/metodi-computazionali-fisica/tree/main/soluzioni/E7)
 
 [Elenco dettagliato soluzioni](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/soluzioni/ELENCO_SOLUZIONI.md)
 
