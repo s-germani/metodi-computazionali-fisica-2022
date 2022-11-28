@@ -42,6 +42,7 @@ Versione online delle lezioni (read-only)
 * [Lezione 7  - Metodi Monte Carlo](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/L07_MonteCarlo.ipynb)
 * [Lezione 8  - Monte Carlo Markov Chain](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/L08_MCMC.ipynb)
 
+
 Esercitazioni in Laboratorio (read-only) 
 =========================================
 * [Numpy, Scipy, Matplotlib](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/E02a_NumpyScipyMatplotlib.ipynb)
@@ -50,6 +51,7 @@ Esercitazioni in Laboratorio (read-only)
 * [Equazioni Differenziali](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/E05_EquazioniDifferenziali.ipynb)
 * [Trasformate di Fourier](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/E06_TrasformateFourier.ipynb)
 * [Metodi Monte Carlo](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/E07_MonteCarlo.ipynb)
+* [Monte Carlo Markov Chain](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/E08_MCMC.ipynb)
 
 
 Esempi di Svolgomento delle Esercitazioni (read-only)
