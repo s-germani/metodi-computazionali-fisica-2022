@@ -45,13 +45,13 @@ Versione online delle lezioni (read-only)
 
 Esercitazioni in Laboratorio (read-only) 
 =========================================
-* [Numpy, Scipy, Matplotlib](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/E02a_NumpyScipyMatplotlib.ipynb)
-* [Integrazione e derivazione](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/E03_Itegrazione_e_Derivazione.ipynb)
-* [Integrazione + Minimizzazione](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/E04_Equazioni_Minimizzazione.ipynb)
-* [Equazioni Differenziali](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/E05_EquazioniDifferenziali.ipynb)
-* [Trasformate di Fourier](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/E06_TrasformateFourier.ipynb)
-* [Metodi Monte Carlo](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/E07_MonteCarlo.ipynb)
-* [Monte Carlo Markov Chain](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/E08_MCMC.ipynb)
+* [E2    - Numpy, Scipy, Matplotlib](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/E02a_NumpyScipyMatplotlib.ipynb)
+* [E3    - Integrazione e derivazione](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/E03_Itegrazione_e_Derivazione.ipynb)
+* [E3+E4 - Integrazione + Minimizzazione](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/E04_Equazioni_Minimizzazione.ipynb)
+* [E5    - Equazioni Differenziali](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/E05_EquazioniDifferenziali.ipynb)
+* [E6    - Trasformate di Fourier](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/E06_TrasformateFourier.ipynb)
+* [E7    - Metodi Monte Carlo](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/E07_MonteCarlo.ipynb)
+* [E8    - Monte Carlo Markov Chain](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/E08_MCMC.ipynb)
 
 
 Esempi di Svolgomento delle Esercitazioni (read-only)
