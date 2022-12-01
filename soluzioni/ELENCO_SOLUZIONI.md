@@ -18,4 +18,7 @@
 * Cartella E7 ( Esercitazione su lezione 7 - Metodi Monte Carlo ):
   * `diffusione_2d.py` : script python con simulazione della diffusione 2D simmetrica e asimmetrica
   * `prob_phi.py`      : script python per test della distribuzione asimmetrica dell'angolo di diffusione phi
+* Cartella E8 ( Esercitazione su lezione 8 - Monte Carlo Markov Chain ):
+  * `mcmc_line.py`     : script python con utilizzo tecnica MCMC tramite il pacchetto emcee e con metodo MH da zero 
+
   
