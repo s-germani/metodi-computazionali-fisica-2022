@@ -41,6 +41,7 @@ Versione online delle lezioni (read-only)
 * [Lezione 6a - Copie in Python](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/L06a_PythonCopy.ipynb)
 * [Lezione 7  - Metodi Monte Carlo](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/L07_MonteCarlo.ipynb)
 * [Lezione 8  - Monte Carlo Markov Chain](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/L08_MCMC.ipynb)
+* [Lezione 9  - Moduli e Classi](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/L09_Moduli_e_Classi.ipynb)
 
 
 Esercitazioni in Laboratorio (read-only) 
@@ -52,6 +53,7 @@ Esercitazioni in Laboratorio (read-only)
 * [E6    - Trasformate di Fourier](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/E06_TrasformateFourier.ipynb)
 * [E7    - Metodi Monte Carlo](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/E07_MonteCarlo.ipynb)
 * [E8    - Monte Carlo Markov Chain](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/E08_MCMC.ipynb)
+
 
 
 Esempi di Svolgomento delle Esercitazioni (read-only)
