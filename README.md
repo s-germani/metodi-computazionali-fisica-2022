@@ -25,6 +25,14 @@ Elenco Lezioni
 * *Git e GitHub*
 * Equazioni - Minimizzazione
 * *Funzioni in Python*
+* Equazioni Differenziali
+* Trasformate di Fourier
+* *Copie in Python*
+* Metodi Monte Carlo
+* Monte Carlo Markov Chain
+* Metodi e Classi
+
+
 
 Versione online delle lezioni (read-only) 
 =========================================
@@ -44,6 +52,7 @@ Versione online delle lezioni (read-only)
 * [Lezione 9  - Moduli e Classi](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/L09_Moduli_e_Classi.ipynb)
 
 
+
 Esercitazioni in Laboratorio (read-only) 
 =========================================
 * [E2    - Numpy, Scipy, Matplotlib](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/E02a_NumpyScipyMatplotlib.ipynb)
@@ -53,6 +62,7 @@ Esercitazioni in Laboratorio (read-only)
 * [E6    - Trasformate di Fourier](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/E06_TrasformateFourier.ipynb)
 * [E7    - Metodi Monte Carlo](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/E07_MonteCarlo.ipynb)
 * [E8    - Monte Carlo Markov Chain](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/E08_MCMC.ipynb)
+* [E9    - Moduli e Classi](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/E09_Moduli_e_Classi.ipynb)
 
 
 
