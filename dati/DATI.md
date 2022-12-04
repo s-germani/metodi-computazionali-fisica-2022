@@ -20,6 +20,15 @@ Se non diversamente specificato tutti i dati vengono forniti attraverso file in 
     * `data_sample2.csv`
     * `data_sample1.csv`
   * `copernicus_PG_selected.csv` : dati su inquinanti nella provicia di Perugia
+
+
 * mcmc (Esercitazione 8)
   * `absorption_line.csv` : dati per linea spettrale
-  
+
+
+* calssi (Esercitazione 9)
+  * Hit moduli rivaltore per fotoni 
+    * `hit_times_M0.csv`
+    * `hit_times_M1.csv`
+    * `hit_times_M2.csv`
+    * `hit_times_M3.csv`
