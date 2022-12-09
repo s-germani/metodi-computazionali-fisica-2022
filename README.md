@@ -50,6 +50,7 @@ Versione online delle lezioni (read-only)
 * [Lezione 7  - Metodi Monte Carlo](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/L07_MonteCarlo.ipynb)
 * [Lezione 8  - Monte Carlo Markov Chain](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/L08_MCMC.ipynb)
 * [Lezione 9  - Moduli e Classi](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/L09_Moduli_e_Classi.ipynb)
+* [Le<ione 10 - Integarzione fra C e Python](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/L10_CePython.ipynb)
 
 
 
