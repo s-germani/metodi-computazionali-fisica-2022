@@ -31,6 +31,7 @@ Elenco Lezioni
 * Metodi Monte Carlo
 * Monte Carlo Markov Chain
 * Metodi e Classi
+* Integrazione C e Python
 
 
 
@@ -75,6 +76,7 @@ Esempi di Svolgomento delle Esercitazioni (read-only)
 * [E6    - Trasformate di Fourier](https://github.com/s-germani/metodi-computazionali-fisica/tree/main/soluzioni/E6)
 * [E7    - Metodi Monte Carlo](https://github.com/s-germani/metodi-computazionali-fisica/tree/main/soluzioni/E7)
 * [E8    - Monte carlo Markov Chain](https://github.com/s-germani/metodi-computazionali-fisica/tree/main/soluzioni/E8)
+* [E9    - Moduli e Classi](https://github.com/s-germani/metodi-computazionali-fisica/tree/main/soluzioni/E9)
 
 
 [Elenco dettagliato soluzioni](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/soluzioni/ELENCO_SOLUZIONI.md)

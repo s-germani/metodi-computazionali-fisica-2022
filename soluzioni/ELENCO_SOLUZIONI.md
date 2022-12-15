@@ -20,5 +20,11 @@
   * `prob_phi.py`      : script python per test della distribuzione asimmetrica dell'angolo di diffusione phi
 * Cartella E8 ( Esercitazione su lezione 8 - Monte Carlo Markov Chain ):
   * `mcmc_line.py`     : script python con utilizzo tecnica MCMC tramite il pacchetto emcee e con metodo MH da zero 
+* Cartella E9 ( Esercitazione su lezione 9 - Metodi e Classi ):
+  * `mymodule.py`              : file python con esempio di definizione del modulo mymodule
+  * `test_module.py`           : script python che utilizza le funzioni del modulo mymodure
+  * `reco.py`                  : file per la definzione del modulo reco con le classi Hit e Event
+  * `events_reconstruction.py` : script python per l'analisi degli eventi attraverso il modulo reco
 
-  
+
+
