@@ -33,7 +33,7 @@ Elenco Lezioni
 * Metodi e Classi
 * Integrazione C e Python
 * Note Conclusive - Esame
-
+* Sviluppare un Progetto
 
 Versione online delle lezioni (read-only) 
 =========================================
@@ -53,7 +53,7 @@ Versione online delle lezioni (read-only)
 * [Lezione 9  - Moduli e Classi](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/L09_Moduli_e_Classi.ipynb)
 * [Lezione 10 - Integarzione fra C e Python](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/L10_CePython.ipynb)
 * [Lezione 11 - Note Conclusive - Esame](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/L11_NoteConclusive_Esame.ipynb)
-
+* [Lezione 12 - Sviluppare un Progetto](https://github.com/s-germani/metodi-computazionali-fisica/blob/main/notebooks/L12_Sviluppare_un_Progetto.ipynb)
 
 Esercitazioni in Laboratorio (read-only) 
 =========================================
